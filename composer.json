@@ -1,0 +1,15 @@
+{
+    "name": "ahsanmughal11/math",
+    "description": "A Simple Package to understand the Package Development.",
+    "type": "library",
+    "license": "MIT",
+    "autoload":{
+        "psr-4":{
+            "AhsanMughal11\\Math\\":"src/"
+        }
+    },
+    "require":{
+        "php": "^8.2"   
+    }
+
+}
